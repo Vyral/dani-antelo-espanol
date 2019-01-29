@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/1-24-market-update-yt.jpg
 layout: post
 title: Our Market Now and How Buyers & Sellers Have a Lot to Gain in 2019
-date: 2018-05-10 00:00:00
+date: 2019-01-29 00:00:00
 tags:
   - Market Update
   - Real Estate
