@@ -1,5 +1,5 @@
 ---
-youtube_code: O740KoT6qnM
+youtube_code: p9-_fjTXSM8
 excerpt: >-
   Today I’ll dive into the current state of our market and how both buyers and
   sellers can gain the most from their move in 2019.
