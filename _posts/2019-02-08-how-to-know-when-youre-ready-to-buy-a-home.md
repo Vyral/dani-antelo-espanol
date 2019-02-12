@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-8-preparing-to-buy-yt.jpg
-youtube_code: _yN2mQgmdyg
+youtube_code: E0ohtgdjCpc
 ---
 
 {% include youtube.html %}
