@@ -13,8 +13,8 @@ pullquote: There are always great opportunities in Houston real estate.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2-8-preparing-to-buy-yt.jpg
-youtube_code: E0ohtgdjCpc
+youtube_alternate_image: /uploads/2-8-preparing-to-buy-yt-1.jpg
+youtube_code: 2JyI4b5YV3U
 ---
 
 {% include youtube.html %}
