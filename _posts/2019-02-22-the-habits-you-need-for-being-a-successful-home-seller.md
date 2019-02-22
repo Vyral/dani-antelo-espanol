@@ -15,6 +15,8 @@ youtube_alternate_image: /uploads/2-22-seller-habits-yt.jpg
 youtube_code: 6HgWvIWujQ4
 ---
 
+{% include youtube.html %}
+
 We’re experiencing a bit of a buyer’s market, so if you want to sell your home, it really needs to stand out. When there are ten other listings in your same area, how can you possibly expect to make a sale? Don’t worry, because today we’ll be going over the habits you can put in place that will help you sell your home successfully:
 
 **1. Tidy up. Keep your home clean each and every day.** If you move something out of place, make sure to put it back where it came from.
@@ -22,6 +24,8 @@ We’re experiencing a bit of a buyer’s market, so if you want to sell your ho
 **2. Respond to offers as soon as possible.** Timely responses have the most success when it comes to negotiating contracts and getting to the closing table.
 
 **3. Build buzz about your house.** Your Realtor will be doing this for you, but you should be spreading the news to colleagues, peers, and social media. Let everyone know how amazing your house is—you never know who’s listening!
+
+{% include pullquote.html %}
 
 **4. Deep clean.** Try to do this every week by hiring a cleaning service or doing it yourself. Keep it spotless and make sure dust doesn’t begin to accumulate.
 
