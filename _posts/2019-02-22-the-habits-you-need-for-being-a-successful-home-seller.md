@@ -17,7 +17,7 @@ youtube_code: 6HgWvIWujQ4
 
 {% include youtube.html %}
 
-We’re experiencing a bit of a buyer’s market, so if you want to sell your home, it really needs to stand out. When there are ten other listings in your same area, how can you possibly expect to make a sale? Don’t worry, because today we’ll be going over the habits you can put in place that will help you sell your home successfully:
+We’re experiencing a bit of a buyer’s market, so if you want to sell your home, it really needs to stand out. When there are ten other listings in your area, how can you possibly expect to make a sale? Don’t worry, because today we’ll be going over the habits you can put in place that will help you sell your home successfully:
 
 **1. Tidy up. Keep your home clean each and every day.** If you move something out of place, make sure to put it back where it came from.
 
