@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-22-seller-habits-yt.jpg
-youtube_code: 6HgWvIWujQ4
+youtube_code: aNKqsc3XhKE
 ---
 
 {% include youtube.html %}
