@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-7-homestead-yt.jpg
-youtube_code: JJnU4OzX-gE
+youtube_code: h118HMNb88g
 ---
 
 {% include youtube.html %}
