@@ -21,7 +21,7 @@ youtube_code: PZosvcMu4C0
 
 {% include youtube.html %}
 
-My goal with this blog is to answer your questions each week about all things real estate, and recently, I was asked something very interesting: How do Realtors get paid?
+The goal of this blog is to provide answers to your all your real estate questions. Recently, I was asked something very interesting: How do Realtors get paid?
 
 **Well, if you’ve been thinking of buying but have been worrying about the cost of hiring an agent, I’ve got amazing news: Working with a Realtor won’t cost you a cent.&nbsp;**
 
