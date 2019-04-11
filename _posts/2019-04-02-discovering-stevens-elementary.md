@@ -29,8 +29,4 @@ Joining me for this spotlight is Tim Weltin, a wraparound resource specialist wh
 
 If you’d like to know more about how you can give back to our Oak Forest community, don’t hesitate to reach out to me. I’d be happy to help you.
 
-*I work with clients whose main decision driver is the school they are zoned to. When it comes to real estate, properties that are zoned to higher ranked schools tend to sell for more. However, basing your real estate choices solely on a school ranking has consequences. For starters, your property could be rezoned without notice in the future. Second, if the school is at full capacity, you might not be able to send your kids there.&nbsp;*
-
-*Before looking at rankings, which is ultimately just a number, take your actions a step further. Go inside your local school and talk to the people they are making a difference there. What programs are they offering? Who is the principal? What does the school cafeteria look like? These are things you won’t get from a ranking.&nbsp;*
-
 ***As a commitment to my local school, I will be donating a portion of all my sales in the 77018 zip code to the Stevens Elementary art department.&nbsp;***
