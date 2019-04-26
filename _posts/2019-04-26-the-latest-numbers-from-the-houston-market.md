@@ -28,7 +28,7 @@ The weather doesn’t look as though it’s going to get any cooler, so remember
 
 Whether you’re on the market this season or planning to enter it later in the year, you need to make sure that you’re ready to make a move when the time comes. It’s a complete myth that you need to put down 20% when purchasing a property; you can put as little as 5% down on a conventional loan or just 3.5% if you qualify for an FHA loan.
 
-Earlier this year, I wrote a book called “How to Buy a House In Houston, Texas,” and I’d be happy to send you a copy if you’re interested in getting prepared for any market in any season.&nbsp;
+Earlier this year, I wrote a book called “How to Buy a House In Houston, Texas,” and I’d be happy to send you a copy if you’re interested in getting prepared for any market in any season. 
 
 **Starting at 1:38 in the video above, you’ll see a few charts that will tell you how each category has changed in terms of percentages from last year to this year.** Single-family homes reached a 3.9-month supply in March 2019, which is up from a 3.3-month supply in March 2018—this marks the greatest supply of homes we’ve had since October 2018. For perspective, housing inventory across the U.S. is currently at a 3.5-month supply, according to the latest report from the National Association of Realtors.
 
