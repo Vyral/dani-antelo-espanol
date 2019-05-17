@@ -34,4 +34,4 @@ How much can you exempt? **The amount depends on how you file.** If you’re sin
 
 There’s been a recent change in the rules which allows exemptions on special circumstances, such as a spouse’s death.&nbsp;
 
-I wrote a book recently recalled *“How to Buy a House in Houston, TX”* that I’d be happy to get you a free copy of. If you want one or if you have any other real estate-related questions for me, don't hesitate to reach out and give me a call or send me an email. I would love to hear from you.
+I wrote a book recently recalled“How to Buy a House in Houston, TX” that I’d be happy to get you a free copy of. If you want one or if you have any other real estate-related questions for me, don't hesitate to reach out and give me a call or send me an email. I would love to hear from you.
