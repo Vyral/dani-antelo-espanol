@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-14-capital-gains-yt.jpg
-youtube_code: qIOQR_5a_rc
+youtube_code: Cn4e9zQTTwU
 ---
 
 {% include youtube.html %}
