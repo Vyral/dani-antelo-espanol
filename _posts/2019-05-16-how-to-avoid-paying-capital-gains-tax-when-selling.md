@@ -9,13 +9,13 @@ excerpt: >-
   Most assets that you realize a profit on are taxed as capital gains. Home
   sales are an exception. Here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dani+Antelo/Daniela+Antelo+Keller+Williams+_+How+to+Avoid+Paying+Capital+Gains+Tax+When+Selling.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dani+Antelo/Daniela+Antelo+Keller+Williams+_+How+to+Avoid+Paying+Capital+Gains+Tax+When+Selling+(1).mp4
 pullquote: 'If you’re single, the exemption goes up to $250,000.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-14-capital-gains-yt.jpg
-youtube_code: Cn4e9zQTTwU
+youtube_code: eHMPrbKTTwc
 ---
 
 {% include youtube.html %}
