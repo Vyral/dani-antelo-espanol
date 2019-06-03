@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Improve Houston By Plogging?
-date: 2019-06-03 19:16:33
+date: 2019-06-03 19:16:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,8 +14,8 @@ pullquote: >-
   in the future.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/5-31-plogging-yt.jpg
 youtube_code: N_jF0jbPWlw
 ---
 
