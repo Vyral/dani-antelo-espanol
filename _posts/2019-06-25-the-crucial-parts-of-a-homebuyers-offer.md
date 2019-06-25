@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Crucial Parts of a Homebuyer’s Offer
-date: 2019-06-25 19:36:35
+date: 2019-06-25 19:36:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/062119-daniyt-1.jpg
 youtube_code: qlskUbat_zc
 ---
 
