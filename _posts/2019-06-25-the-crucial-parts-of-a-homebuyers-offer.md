@@ -15,7 +15,7 @@ pullquote: >-
   you like more, the option period is the time to terminate the contract
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/offeryt.jpg
 youtube_code: Cc1C97zvuAE
 ---
