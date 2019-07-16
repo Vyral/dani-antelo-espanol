@@ -27,8 +27,10 @@ I’ve been thinking a lot lately about why people decide to live in the neighbo
 
 {% include pullquote.html %}
 
-**For the next two weeks, I’d love for you all to accept the plogging challenge.** Next time you go for a walk or a run, adopt a drain in your neighborhood and get to plogging. After you’re done, take a picture of yourself holding the trash bag. Then, tag me on Twitter @HoustonBroker and make sure to include the hashtag \#ploggingchallengehouston. **At the end of the two weeks, you’ll be entered into a drawing to win four movie tickets.**
+**For the next two weeks, I’d love for you all to accept the plogging challenge.** Next time you go for a walk or a run, adopt a drain in your neighborhood and get to plogging. After you’re done, take a picture of yourself holding the trash bag. Then, tag me on Twitter @YourHoustonBroker and make sure to include the hashtag \#ploggingchallengehouston. **At the end of the two weeks, you’ll be entered into a drawing to win four movie tickets.**
 
-This is just a fun thing I wanted to do to help clean up our community a bit and demonstrate how we can help keep our drains clean. We’ve lived through some traumatic flooding here, so the cleaner our drains are, the less likely it is that our streets are going to flood. Starting at 2:52 in the video above, you can see my plogging challenge for yourself\!
+And on **August 3rd, you can join me for a fun community event** with refreshments, raffle prizes. fresh air and good vibes\! The event starts at 10 A.M. at the Stevens Elementary park (1910 Lamonte Ln., Houston, TX 77018).&nbsp;
+
+This is just a fun thing I wanted to do to help clean up our community a bit and demonstrate how we can help keep our drains clean. We’ve lived through some traumatic flooding here, so the cleaner our drains are, the less likely it is that our streets are going to flood.&nbsp;
 
 If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.<br>&nbsp;
