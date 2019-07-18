@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-31-plogging-yt.jpg
-youtube_code: N_jF0jbPWlw
+youtube_code: rceSap-tPKc
 ---
 
 {% include youtube.html %}
@@ -33,4 +33,4 @@ And on **August 3rd, you can join me for a fun community event** with refreshmen
 
 This is just a fun thing I wanted to do to help clean up our community a bit and demonstrate how we can help keep our drains clean. We’ve lived through some traumatic flooding here, so the cleaner our drains are, the less likely it is that our streets are going to flood.&nbsp;
 
-If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.<br>&nbsp;
+If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
