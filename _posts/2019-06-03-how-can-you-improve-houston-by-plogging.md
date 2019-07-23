@@ -21,13 +21,13 @@ youtube_code: VYfR0gYW87E
 
 {% include youtube.html %}
 
-I’ve been thinking a lot lately about why people decide to live in the neighborhoods that they do. **The bottom line, I think, is that people make communities great.** It’s all about who lives there, what they do, and the little things that contribute to great communities. Recently, I was talking to my friend Sarah, and she told me about a new exercise she’s been doing called “plogging.”&nbsp;
+I’ve been thinking a lot lately about why people decide to live in the neighborhoods that they do. **The bottom line, I think, is that people make communities great.** It’s all about who lives there, what they do, and the little things that contribute to great communities. Recently, I was talking to my friend Sara, and she told me about a new exercise she’s been doing called “plogging.”&nbsp;
 
 **Essentially, it’s the practice of picking up trash while jogging or walking**. It’s very easy, very simple, and all you need is a pair of gloves and a plastic bag. The plogging movement started in Sweden a few years ago, and we’re doing our part to bring it to Houston.&nbsp;
 
 {% include pullquote.html %}
 
-**For the next two weeks, I’d love for you all to accept the plogging challenge.** Next time you go for a walk or a run, adopt a drain in your neighborhood and get to plogging. After you’re done, take a picture of yourself holding the trash bag. Then, tag me on Twitter @YourHoustonBroker and make sure to include the hashtag \#ploggingchallengehouston. **At the end of the two weeks, you’ll be entered into a drawing to win four movie tickets.**
+**For the next two weeks, I’d love for you all to accept the plogging challenge.** Next time you go for a walk or a run, adopt a drain in your neighborhood and get to plogging. After you’re done, take a picture of yourself holding the trash bag. Then, tag me on Instagram @YourHoustonBroker and make sure to include the hashtag \#ploggingchallengehouston. **At the end of the two weeks, you’ll be entered into a drawing to win four movie tickets.**
 
 And on **August 3rd, you can join me for a fun community event** with refreshments, raffle prizes. fresh air and good vibes\! The event starts at 10 A.M. at the Stevens Elementary park (1910 Lamonte Ln., Houston, TX 77018).&nbsp;
 
