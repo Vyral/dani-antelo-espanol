@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turn the Ditch in Front of Your Property Into Usable Space
-date: 2019-08-01 20:21:02
+date: 2019-08-01 20:21:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/ditchyt.jpg
 youtube_code: B9zJ3Q8NTdI
 ---
 
