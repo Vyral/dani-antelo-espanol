@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/ditchyt.jpg
-youtube_code: B9zJ3Q8NTdI
+youtube_code: ppJ2fNvoP9o
 ---
 
 {% include youtube.html %}
