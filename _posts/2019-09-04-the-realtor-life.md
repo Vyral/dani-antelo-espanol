@@ -1,15 +1,15 @@
 ---
 layout: post
 title: The REALtor Life
-date: 2019-09-04 15:06:21
+date: 2019-09-04 15:06:00
 tags:
 excerpt: Do you know what it’s like to be a realtor?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/lifeyt.jpg
 youtube_code: 5uGPWJj8ww0
 ---
 
