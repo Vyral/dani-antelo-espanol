@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-factors-yt.jpg
-youtube_code: 1t6B9wlayoI
+youtube_code: A-XjqyE53-U
 ---
 
 {% include youtube.html %}
