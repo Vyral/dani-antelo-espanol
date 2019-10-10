@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Women of Houston
+title: Featured Homes
 permalink: /featured-homes
 ---
