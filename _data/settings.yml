@@ -5,8 +5,10 @@ show_custom_links: true
 custom_links:
   - title: Houston Gems
     url: /houston-gems/
-  - title: Women of Houston
+  - title: Women to Women
     url: /women-of-houston
+  - title: Featured Homes
+    url: /
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: How to Buy a House in Houston, TX
