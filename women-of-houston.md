@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Women of Houston
-permalink: /women-of-houston
+title: Women to Women
+permalink: /women-to-women
 ---
