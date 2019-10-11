@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Women to Women
-permalink: /women-to-women
+permalink: /women-to-women/
 ---
