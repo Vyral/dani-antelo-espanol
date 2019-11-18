@@ -1,5 +1,5 @@
 audit_header: false
-title: Houston Real Estate Video Blog with Daniela Antelo
+title: Houston Broker Team
 description: Our mission at Keller Williams is to be your best resource for Houston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams, your professional Houston Real Estate Agents.
 show_custom_links: true
 custom_links:
@@ -11,13 +11,16 @@ custom_links:
     url: /featured-homes/
   - title: How to Buy a House in Houston, TX
     url: https://www.amazon.com/dp/1792789300
-
+  - title: Townhome Development
+    url: /townhome-developoment/
+  - title: Calendar
+    url: /calendar/
 client:
   name: Daniela Antelo
   title:
   license_number:
   about_markdown: |
-    Daniela Antelo is a Houston-based real estate professional since 2011. Over the course of her career, she has earned multiple designations, such as Certified Negotiation Expert (CNE), Accredited Luxury Home Specialist (ALHM) an Accredited Buyer Representative (AABR). She earned her Broker's license in 2018 and is currently an Broker Associate with Keller Williams Realty.
+    Daniela Antelo has been a Houston-based real estate professional since 2011. Over the course of her career, she has earned multiple designations, such as Certified Negotiation Expert (CNE), Accredited Luxury Home Specialist (ALHS) an Accredited Buyer Representative (ABR). She earned her Broker’s license in 2018 and is currently a Broker Associate with Keller Williams Realty.
   brand: Keller Williams
   brokerage: Houston Broker Team
   market: Houston
@@ -49,6 +52,13 @@ second_sidebar_CTA:
     CTA_link_text2: "Search the MLS"
     CTA_url2: http://search.har.com/idx/?siteType=aws&cid=617461
 
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.jpg
+    CTA_title3: "Meet With Us"
+    CTA_text3: "Schedule a time for us to sit down face to face."
+    CTA_link_text3: "See Calendar"
+    CTA_url3: /calendar/
+
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -65,7 +75,7 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/Houston-Broker-Dani-Antelo-2171832076399087/
-  linkedin_url: 
+  linkedin_url:
   youtube_url: https://www.youtube.com/channel/UCtErXoPb-1hXn2btdLgchsQ
   twitter_url:
   instagram_url:
@@ -88,7 +98,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Houston Real Estate Video Blog<br> with Daniela Antelo
+  hero_text: Houston Broker Team
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg

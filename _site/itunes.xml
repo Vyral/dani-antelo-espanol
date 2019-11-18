@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams - your professional Houston Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Daniela Antelo</managingEditor>
-    <lastBuildDate>2019-10-28 11:26:18 -0500</lastBuildDate>
+    <lastBuildDate>2019-11-18 15:29:41 -0600</lastBuildDate>
     <media:copyright>Daniela Antelo</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,29 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams - your professional Houston Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>How Can You Join Us for a Dinner With the Dumpling Dudez</title>
+        <link>http://localhost:4000/how-can-you-join-us-for-a-dinner-with-the-dumpling-dudez.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Daniela Antelo</author>
+        <pubDate>2019-11-11 10:53:38 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/Our+Referral+Raffle+is+Here!.mp4</guid>
+        <description>
+
+It’s November—and that means it’s also Gratitude Month. With so much of our business being referral-based, we want to give back to all of you for your continued support. We’re doing it by hosting a dinner party with the Dumpling Dudez. For the entire month of November, if you send us a referral of someone looking to buy, sell, or lease a property in Houston, you’ll be entered into a drawing. 10 lucky winners will be picked on November 30 to come to this dinner in January. If you have any other questions for us in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/Our+Referral+Raffle+is+Here!.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/Our+Referral+Raffle+is+Here!.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>To show you how thankful we are for your continued support, we’re raffling off an amazing dinner with the Dumpling Dudez for 10 of you. Here’s how to enter.</itunes:subtitle>
+        <itunes:author>Daniela Antelo</itunes:author>
+        <itunes:summary>To show you how thankful we are for your continued support, we’re raffling off an amazing dinner with the Dumpling Dudez for 10 of you. Here’s how to enter.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>The REALtor Life</title>
         <link>http://localhost:4000/the-realtor-life.html</link>

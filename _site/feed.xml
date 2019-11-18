@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Houston Real Estate Video Blog with Daniela Antelo</title>
+    <title>Houston Broker Team</title>
     <description>Our mission at Keller Williams is to be your best resource for Houston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams, your professional Houston Real Estate Agents.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Oct 2019 11:26:18 -0500</pubDate>
-    <lastBuildDate>Mon, 28 Oct 2019 11:26:18 -0500</lastBuildDate>
+    <pubDate>Mon, 18 Nov 2019 15:29:41 -0600</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2019 15:29:41 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>How Can You Join Us for a Dinner With the Dumpling Dudez</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rCIRqLYgjgw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;It’s November—and that means it’s also Gratitude Month. With so much of our business being referral-based, we want to give back to all of you for your continued support. We’re doing it by hosting a dinner party with the Dumpling Dudez. For the entire month of November, if you send us a referral of someone looking to buy, sell, or lease a property in Houston, you’ll be entered into a drawing. 10 lucky winners will be picked on November 30 to come to this dinner in January. If you have any other questions for us in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Nov 2019 10:53:38 -0600</pubDate>
+        <link>http://localhost:4000/how-can-you-join-us-for-a-dinner-with-the-dumpling-dudez.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-can-you-join-us-for-a-dinner-with-the-dumpling-dudez.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
     
       <item>
         <title>The REALtor Life</title>
@@ -270,33 +285,6 @@
         <guid isPermaLink="true">http://localhost:4000/how-do-realtors-get-paid.html</guid>
         
         <category>Home Buyer Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>2 Ways You Can Save Money as a Homeowner in 2019</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/h118HMNb88g?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;If you’re looking to save money as a homeowner in 2019, there are a couple of ways you can do so. &lt;/p&gt;
-
-&lt;p&gt;First, if you currently live in your primary residence—not an investment property—&lt;strong&gt;you can file for homestead exemption.&lt;/strong&gt; The deadline to file is coming up fast, though, and keep in mind that you must have lived in your current home as of January 1 of this year. &lt;/p&gt;
-
-&lt;p&gt;To file for this exemption, you can either go &lt;a href=&quot;http://hcad.org/&quot; target=&quot;_blank&quot;&gt;online&lt;/a&gt; or download the application and submit it via mail. In the latter case, you’ll need a copy of your driver’s license with your primary residence listed. The filing process is completely free, so don’t fall for any spam mail that offers to file for you for a nominal fee.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You might be surprised at how much of a reduction you get, and who doesn’t want that extra cash in their pocket?%20http://localhost:4000/2-ways-you-can-save-money-as-a-homeowner-in-2019.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You might be surprised at how much of a reduction you get, and who doesn’t want that extra cash in their pocket?”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The second way you can save money is by &lt;strong&gt;protesting your property taxes.&lt;/strong&gt; Property taxes tend to increase every year, but you can protest yours by bringing a copy of your property tax disclosure to the courthouse in person. Texas is a non-disclosure state, so remember that you’re not required to reveal how much you paid for your property. As with filing for homestead exemption, this process is free. &lt;/p&gt;
-
-&lt;p&gt;If you’d like help protesting your property taxes, I would be happy to do a comparative market analysis of your local area to supplement your position. In any case, don’t be afraid to give it a shot. You might be surprised at how much of a reduction you get, and who doesn’t want that extra cash in their pocket?&lt;/p&gt;
-
-&lt;p&gt;If you have any more questions about this topic or you have any other real estate needs I can take care of, don’t hesitate to reach out to me. I’d be happy to help you.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Mar 2019 18:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2-ways-you-can-save-money-as-a-homeowner-in-2019.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2-ways-you-can-save-money-as-a-homeowner-in-2019.html</guid>
-        
-        <category>Home Seller Tips</category>
         
         
       </item>

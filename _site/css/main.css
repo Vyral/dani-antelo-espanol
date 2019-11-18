@@ -1336,7 +1336,6 @@ html[xmlns] .flexslider .slides {
   max-width: 65%; }
 
 .navbar-nav > li {
-  margin-right: 10px;
   margin-bottom: 0px;
   transition: all 0.15s ease-out 0s; }
 
@@ -1344,7 +1343,7 @@ html[xmlns] .flexslider .slides {
   background: transparent;
   color: black;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 17px;
   font-weight: 300; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
@@ -1362,7 +1361,7 @@ html[xmlns] .flexslider .slides {
   background: transparent;
   color: #123456;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 17px;
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;
@@ -2525,7 +2524,7 @@ form select {
   background: transparent;
   color: #123456;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 17px;
   font-weight: 300; }
   .cta:hover {
     background: #eeeeee;
