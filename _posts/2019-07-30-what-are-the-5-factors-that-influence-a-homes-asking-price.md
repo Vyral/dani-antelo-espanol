@@ -3,7 +3,7 @@ layout: post
 title: What Are the 5 Factors That Influence a Home’s Asking Price?
 date: 2019-07-30 17:51:00
 tags:
-  - Real Estate
+  - Bienes raíces
 excerpt: 'When it comes to pricing a home, there are five factors that Realtors weigh.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dani+Antelo/2019/Five+Factors+that+Influence+a+Home's+Value.mp4

@@ -3,7 +3,7 @@ layout: post
 title: The Crucial Parts of a Homebuyer’s Offer
 date: 2019-06-25 19:36:00
 tags:
-  - Real Estate
+  - Bienes raíces
 excerpt: >-
   When it comes to presenting an offer on a home to the seller, there are a few
   key elements of the offer itself to consider. Find out what they are right

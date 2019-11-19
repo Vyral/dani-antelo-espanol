@@ -3,7 +3,7 @@ layout: post
 title: How Can You Join Us for a Dinner With the Dumpling Dudez
 date: 2019-11-11 16:53:38
 tags:
-  - Real Estate
+  - Bienes raíces
 excerpt: >-
   To show you how thankful we are for your continued support, we’re raffling off
   an amazing dinner with the Dumpling Dudez for 10 of you. Here’s how to enter.

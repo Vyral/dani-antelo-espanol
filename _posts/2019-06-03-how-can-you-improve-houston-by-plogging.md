@@ -3,7 +3,7 @@ layout: post
 title: How Can You Improve Houston By Plogging?
 date: 2019-06-03 19:16:00
 tags:
-  - Real Estate
+  - Bienes raíces
 excerpt: >-
   Plogging is a new kind of exercise that will do good things for your body and
   soul. Here’s how it works.

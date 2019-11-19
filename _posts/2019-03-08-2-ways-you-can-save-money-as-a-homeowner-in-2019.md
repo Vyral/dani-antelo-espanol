@@ -3,7 +3,7 @@ layout: post
 title: 2 Ways You Can Save Money as a Homeowner in 2019
 date: 2019-03-08 00:00:00
 tags:
-  - Home Seller Tips
+  - Consejos para vendedores de casas
 excerpt: >-
   If you’re looking to save money as a homeowner in 2019, I want to tell you
   about a couple of ways you can do so.

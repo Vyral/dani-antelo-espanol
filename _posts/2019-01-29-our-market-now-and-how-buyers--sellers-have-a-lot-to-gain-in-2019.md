@@ -16,9 +16,9 @@ layout: post
 title: Our Market Now and How Buyers & Sellers Have a Lot to Gain in 2019
 date: 2019-01-29 00:00:00
 tags:
-  - Market Update
-  - Real Estate
-  - Home Seller Tips
+  - Actualización del mercado
+  - Bienes raíces
+  - Consejos para vendedores de casas
 ---
 
 {% include youtube.html %}

@@ -3,7 +3,7 @@ layout: post
 title: How to Ditch Your Ditch
 date: 2019-08-01 20:21:00
 tags:
-  - Real Estate
+  - Bienes raíces
 excerpt: >-
   Converting the ditch in front of your house into a parking space will boost
   your property’s curb appeal—here’s how you can do it.

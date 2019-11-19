@@ -3,8 +3,8 @@ layout: post
 title: How to Avoid Paying Capital Gains Tax When Selling
 date: 2019-05-16 00:00:00
 tags:
-  - Real Estate
-  - Home Seller Tips
+  - Bienes raíces
+  - Consejos para vendedores de casas
 excerpt: >-
   Most assets that you realize a profit on are taxed as capital gains. Home
   sales are an exception. Here’s why.

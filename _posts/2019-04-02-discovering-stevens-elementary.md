@@ -3,7 +3,7 @@ layout: post
 title: Discovering Stevens Elementary
 date: 2019-04-02 00:00:00
 tags:
-  - Real Estate
+  - Bienes raíces
 excerpt: >-
   In my ongoing quest to discover our Oak Forest community, I’m spotlighting
   Stevens Elementary School.

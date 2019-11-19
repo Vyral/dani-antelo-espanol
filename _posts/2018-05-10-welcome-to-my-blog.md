@@ -13,9 +13,9 @@ layout: post
 title: Welcome To My Blog!
 date: 2018-05-10 00:00:00
 tags:
-  - Market Update
-  - Real Estate
-  - Home Seller Tips
+  - Actualización del mercado
+  - Bienes raíces
+  - Consejos para vendedores de casas
 ---
 
 Our market remains busy, and it’s still an opportune time to command a high price selling your home. &nbsp;

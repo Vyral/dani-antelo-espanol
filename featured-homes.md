@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Featured Homes
-permalink: /featured-homes/
+title: Casas destacadas
+permalink: /casas-destacadas/
 ---
 
 

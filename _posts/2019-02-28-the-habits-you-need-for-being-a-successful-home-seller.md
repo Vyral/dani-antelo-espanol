@@ -3,7 +3,7 @@ layout: post
 title: The Habits You Need for Being a Successful Home Seller
 date: 2019-02-28 00:00:00
 tags:
-  - Home Seller Tips
+  - Consejos para vendedores de casas
 excerpt: You’ll easily be able to sell your home if you keep these tips in mind.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dani+Antelo/Daniela+Antelo+Keller+Williams+_+The+Habits+You+Need+for+Being+a+Successful+Home+Seller.mp4

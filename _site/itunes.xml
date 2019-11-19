@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams - your professional Houston Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Daniela Antelo</managingEditor>
-    <lastBuildDate>2019-11-18 15:29:41 -0600</lastBuildDate>
+    <lastBuildDate>2019-11-19 14:23:09 -0600</lastBuildDate>
     <media:copyright>Daniela Antelo</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -28,7 +28,7 @@
         <title>How Can You Join Us for a Dinner With the Dumpling Dudez</title>
         <link>http://localhost:4000/how-can-you-join-us-for-a-dinner-with-the-dumpling-dudez.html</link>
         
-          <category>Real Estate</category>
+          <category>Bienes raíces</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-11-11 10:53:38 -0600</pubDate>
@@ -72,7 +72,7 @@ Do you know what it’s like to be a realtor? Contact me today if you are in t
         <title>How to Ditch Your Ditch</title>
         <link>http://localhost:4000/how-to-ditch-your-ditch.html</link>
         
-          <category>Real Estate</category>
+          <category>Bienes raíces</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-08-01 15:21:00 -0500</pubDate>
@@ -103,7 +103,7 @@ If you have any questions about how to “ditch” your ditch or you have any ot
         <title>What Are the 5 Factors That Influence a Home’s Asking Price?</title>
         <link>http://localhost:4000/what-are-the-5-factors-that-influence-a-homes-asking-price.html</link>
         
-          <category>Real Estate</category>
+          <category>Bienes raíces</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-07-30 12:51:00 -0500</pubDate>
@@ -144,7 +144,7 @@ If you have any more questions about how homes are priced or you’re a seller a
         <title>The Crucial Parts of a Homebuyer’s Offer</title>
         <link>http://localhost:4000/the-crucial-parts-of-a-homebuyers-offer.html</link>
         
-          <category>Real Estate</category>
+          <category>Bienes raíces</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-06-25 14:36:00 -0500</pubDate>
@@ -201,7 +201,7 @@ Hopefully this information has been helpful to you! If you have any questions ab
         <title>How Can You Improve Houston By Plogging?</title>
         <link>http://localhost:4000/how-can-you-improve-houston-by-plogging.html</link>
         
-          <category>Real Estate</category>
+          <category>Bienes raíces</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-06-03 14:16:00 -0500</pubDate>
@@ -236,9 +236,9 @@ If you have any other questions for me in the meantime, don’t hesitate to give
         <title>How to Avoid Paying Capital Gains Tax When Selling</title>
         <link>http://localhost:4000/how-to-avoid-paying-capital-gains-tax-when-selling.html</link>
         
-          <category>Real Estate</category>
+          <category>Bienes raíces</category>
         
-          <category>Home Seller Tips</category>
+          <category>Consejos para vendedores de casas</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-05-15 19:00:00 -0500</pubDate>
@@ -275,7 +275,7 @@ I wrote a book recently recalled“How to Buy a House in Houston, TX” that I�
         <title>The Latest Numbers From the Houston Market</title>
         <link>http://localhost:4000/the-latest-numbers-from-the-houston-market.html</link>
         
-          <category>Market Update</category>
+          <category>Actualización del mercado</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-04-25 19:00:00 -0500</pubDate>
@@ -318,7 +318,7 @@ Whether you’re a buyer or a seller, if you’d like more information about wha
         <title>Discovering Stevens Elementary</title>
         <link>http://localhost:4000/discovering-stevens-elementary.html</link>
         
-          <category>Real Estate</category>
+          <category>Bienes raíces</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-04-01 19:00:00 -0500</pubDate>
@@ -351,7 +351,7 @@ As a commitment to my local school, I will be donating a portion of all my sales
         <title>How Do Realtors Get Paid?</title>
         <link>http://localhost:4000/how-do-realtors-get-paid.html</link>
         
-          <category>Home Buyer Tips</category>
+          <category>Consejos para el comprador de vivienda</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-03-24 19:00:00 -0500</pubDate>
@@ -388,7 +388,7 @@ If you have any other questions or would like more information, feel free to giv
         <title>2 Ways You Can Save Money as a Homeowner in 2019</title>
         <link>http://localhost:4000/2-ways-you-can-save-money-as-a-homeowner-in-2019.html</link>
         
-          <category>Home Seller Tips</category>
+          <category>Consejos para vendedores de casas</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-03-07 18:00:00 -0600</pubDate>
@@ -423,7 +423,7 @@ If you have any more questions about this topic or you have any other real estat
         <title>The Habits You Need for Being a Successful Home Seller</title>
         <link>http://localhost:4000/the-habits-you-need-for-being-a-successful-home-seller.html</link>
         
-          <category>Home Seller Tips</category>
+          <category>Consejos para vendedores de casas</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-02-27 18:00:00 -0600</pubDate>
@@ -466,7 +466,7 @@ If you have any questions about making your home stand out or you need further i
         <title>How to Know When You’re Ready to Buy a Home</title>
         <link>http://localhost:4000/how-to-know-when-youre-ready-to-buy-a-home.html</link>
         
-          <category>Home Buyer Tips</category>
+          <category>Consejos para el comprador de vivienda</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-02-07 18:00:00 -0600</pubDate>
@@ -499,11 +499,11 @@ If you’re ready to begin your search, have any questions, or would like to lea
         <title>Our Market Now and How Buyers & Sellers Have a Lot to Gain in 2019</title>
         <link>http://localhost:4000/our-market-now-and-how-buyers-sellers-have-a-lot-to-gain-in-2019.html</link>
         
-          <category>Market Update</category>
+          <category>Actualización del mercado</category>
         
-          <category>Real Estate</category>
+          <category>Bienes raíces</category>
         
-          <category>Home Seller Tips</category>
+          <category>Consejos para vendedores de casas</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2019-01-28 18:00:00 -0600</pubDate>
@@ -536,11 +536,11 @@ The bottom line is, in terms of real estate, Houston is a very healthy place to 
         <title>Welcome To My Blog!</title>
         <link>http://localhost:4000/welcome-to-my-blog.html</link>
         
-          <category>Market Update</category>
+          <category>Actualización del mercado</category>
         
-          <category>Real Estate</category>
+          <category>Bienes raíces</category>
         
-          <category>Home Seller Tips</category>
+          <category>Consejos para vendedores de casas</category>
         
         <author>Daniela Antelo</author>
         <pubDate>2018-05-09 19:00:00 -0500</pubDate>

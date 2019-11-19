@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Houston Broker Team</title>
-    <description>Our mission at Keller Williams is to be your best resource for Houston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams, your professional Houston Real Estate Agents.</description>
+    <description>Nuestra misión en Keller Williams es ser su mejor recurso para el asesoramiento inmobiliario de Houston. Si usted es un comprador, vendedor o inversor, nuestro equipo de profesionales puede responder cualquier pregunta que pueda tener sobre bienes raíces. Si está buscando comprar o vender una casa, puede obtener toda la información y las últimas actualizaciones, consejos y trucos de The Keller Williams, sus agentes inmobiliarios profesionales de Houston.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Nov 2019 15:29:41 -0600</pubDate>
-    <lastBuildDate>Mon, 18 Nov 2019 15:29:41 -0600</lastBuildDate>
+    <pubDate>Tue, 19 Nov 2019 14:23:09 -0600</pubDate>
+    <lastBuildDate>Tue, 19 Nov 2019 14:23:09 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -19,7 +19,7 @@
         <link>http://localhost:4000/how-can-you-join-us-for-a-dinner-with-the-dumpling-dudez.html</link>
         <guid isPermaLink="true">http://localhost:4000/how-can-you-join-us-for-a-dinner-with-the-dumpling-dudez.html</guid>
         
-        <category>Real Estate</category>
+        <category>Bienes raíces</category>
         
         
       </item>
@@ -55,7 +55,7 @@
         <link>http://localhost:4000/how-to-ditch-your-ditch.html</link>
         <guid isPermaLink="true">http://localhost:4000/how-to-ditch-your-ditch.html</guid>
         
-        <category>Real Estate</category>
+        <category>Bienes raíces</category>
         
         
       </item>
@@ -88,7 +88,7 @@
         <link>http://localhost:4000/what-are-the-5-factors-that-influence-a-homes-asking-price.html</link>
         <guid isPermaLink="true">http://localhost:4000/what-are-the-5-factors-that-influence-a-homes-asking-price.html</guid>
         
-        <category>Real Estate</category>
+        <category>Bienes raíces</category>
         
         
       </item>
@@ -137,7 +137,7 @@
         <link>http://localhost:4000/the-crucial-parts-of-a-homebuyers-offer.html</link>
         <guid isPermaLink="true">http://localhost:4000/the-crucial-parts-of-a-homebuyers-offer.html</guid>
         
-        <category>Real Estate</category>
+        <category>Bienes raíces</category>
         
         
       </item>
@@ -164,7 +164,7 @@
         <link>http://localhost:4000/how-can-you-improve-houston-by-plogging.html</link>
         <guid isPermaLink="true">http://localhost:4000/how-can-you-improve-houston-by-plogging.html</guid>
         
-        <category>Real Estate</category>
+        <category>Bienes raíces</category>
         
         
       </item>
@@ -193,9 +193,9 @@
         <link>http://localhost:4000/how-to-avoid-paying-capital-gains-tax-when-selling.html</link>
         <guid isPermaLink="true">http://localhost:4000/how-to-avoid-paying-capital-gains-tax-when-selling.html</guid>
         
-        <category>Real Estate</category>
+        <category>Bienes raíces</category>
         
-        <category>Home Seller Tips</category>
+        <category>Consejos para vendedores de casas</category>
         
         
       </item>
@@ -230,7 +230,7 @@
         <link>http://localhost:4000/the-latest-numbers-from-the-houston-market.html</link>
         <guid isPermaLink="true">http://localhost:4000/the-latest-numbers-from-the-houston-market.html</guid>
         
-        <category>Market Update</category>
+        <category>Actualización del mercado</category>
         
         
       </item>
@@ -255,7 +255,7 @@
         <link>http://localhost:4000/discovering-stevens-elementary.html</link>
         <guid isPermaLink="true">http://localhost:4000/discovering-stevens-elementary.html</guid>
         
-        <category>Real Estate</category>
+        <category>Bienes raíces</category>
         
         
       </item>
@@ -284,7 +284,7 @@
         <link>http://localhost:4000/how-do-realtors-get-paid.html</link>
         <guid isPermaLink="true">http://localhost:4000/how-do-realtors-get-paid.html</guid>
         
-        <category>Home Buyer Tips</category>
+        <category>Consejos para el comprador de vivienda</category>
         
         
       </item>

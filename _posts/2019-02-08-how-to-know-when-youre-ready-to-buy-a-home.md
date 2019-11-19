@@ -3,7 +3,7 @@ layout: post
 title: How to Know When You’re Ready to Buy a Home
 date: 2019-02-08 00:00:00
 tags:
-  - Home Buyer Tips
+  - Consejos para el comprador de vivienda
 excerpt: >-
   Did you convince yourself that you can’t afford your home? Well, you may be
   surprised to find that might not be the case.

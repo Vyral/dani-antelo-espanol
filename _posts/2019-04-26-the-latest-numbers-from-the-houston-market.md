@@ -3,7 +3,7 @@ layout: post
 title: The Latest Numbers From the Houston Market
 date: 2019-04-26 00:00:00
 tags:
-  - Market Update
+  - Actualización del mercado
 excerpt: Here’s your latest update on the Houston spring real estate market.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dani+Antelo/Daniela+Antelo+Keller+Williams+_+The+Latest+Numbers+From+the+Houston+Market.mp4

@@ -3,7 +3,7 @@ layout: post
 title: How Do Realtors Get Paid?
 date: 2019-03-25 00:00:00
 tags:
-  - Home Buyer Tips
+  - Consejos para el comprador de vivienda
 excerpt: >-
   Someone recently asked me how Realtors get paid, and so I thought I’d cover
   this question for all of you today.

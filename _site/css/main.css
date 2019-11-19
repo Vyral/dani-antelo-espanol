@@ -1325,7 +1325,7 @@ html[xmlns] .flexslider .slides {
   min-height: 52px;
   background: #ffffff;
   width: 100%;
-  overflow: hidden; }
+  overflow: visible; }
 
 .navbar-andross .navbar-brand {
   color: #b40101;
@@ -1372,6 +1372,39 @@ html[xmlns] .flexslider .slides {
   .cta:focus {
     text-decoration: none;
     color: #b40101; }
+
+.dropbtn {
+  color: black;
+  background-color: #ffffff;
+  font-weight: 300;
+  font-size: 17px;
+  border: none;
+  text-transform: capitalize;
+  margin-bottom: 0; }
+
+.dropdown {
+  position: relative;
+  display: inline-block; }
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 300px;
+  padding: 10px 15px; }
+
+.dropdown-content a {
+  background-color: #eee;
+  text-decoration: none;
+  display: block;
+  font-size: 17px; }
+
+.dropdown:hover .dropdown-content {
+  display: block; }
+
+.dropdown:hover .dropbtn {
+  background-color: #b40101;
+  border: 0px solid #b40101; }
 
 .fa-bars {
   color: #b40101; }

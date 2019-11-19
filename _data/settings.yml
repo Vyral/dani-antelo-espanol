@@ -1,26 +1,26 @@
 audit_header: false
 title: Houston Broker Team
-description: Our mission at Keller Williams is to be your best resource for Houston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Keller Williams, your professional Houston Real Estate Agents.
+description: Nuestra misión en Keller Williams es ser su mejor recurso para el asesoramiento inmobiliario de Houston. Si usted es un comprador, vendedor o inversor, nuestro equipo de profesionales puede responder cualquier pregunta que pueda tener sobre bienes raíces. Si está buscando comprar o vender una casa, puede obtener toda la información y las últimas actualizaciones, consejos y trucos de The Keller Williams, sus agentes inmobiliarios profesionales de Houston.
 show_custom_links: true
 custom_links:
-  - title: Houston Gems
-    url: /houston-gems/
-  - title: Women to Women
-    url: /women-to-women/
-  - title: Featured Homes
-    url: /featured-homes/
-  - title: How to Buy a House in Houston, TX
+  - title: Gemas de Houston
+    url: /gemas-de-houston/
+  - title: Mujeres a mujeres
+    url: /mujeres-a-mujeres/
+  - title: Casas destacadas
+    url: /casas-destacadas/
+  - title: Cómo comprar una casa en Houston, TX
     url: https://www.amazon.com/dp/1792789300
-  - title: Townhome Development
-    url: /townhome-developoment/
-  - title: Calendar
-    url: /calendar/
+  - title: Desarrollo de casas adosadas
+    url: /desarrollo-de-casas-adosadas/
+  - title: Calendario
+    url: /calendario/
 client:
   name: Daniela Antelo
   title:
   license_number:
   about_markdown: |
-    Daniela Antelo has been a Houston-based real estate professional since 2011. Over the course of her career, she has earned multiple designations, such as Certified Negotiation Expert (CNE), Accredited Luxury Home Specialist (ALHS) an Accredited Buyer Representative (ABR). She earned her Broker’s license in 2018 and is currently a Broker Associate with Keller Williams Realty.
+    Daniela Antelo ha sido una profesional de bienes raíces con sede en Houston desde 2011. En el transcurso de su carrera, ha obtenido múltiples designaciones, como Experta en Negociación Certificada (CNE), Especialista Acreditado en Casas de Lujo (ALHS) y Representante de Comprador Acreditado (ABR) . Obtuvo su licencia de corredor en 2018 y actualmente es asociada de corredor con Keller Williams Realty.
   brand: Keller Williams
   brokerage: Houston Broker Team
   market: Houston
@@ -40,24 +40,24 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Houston Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_title: "¿Cuál es el valor de su casa en Houston?"
+    CTA_text: "¿Está pensando en vender su casa o está interesado en conocer los precios de la vivienda en su vecindario? Te podemos ayudar."
+    CTA_link_text: "Valor de la casa"
     CTA_url: http://web.har.com/aws/disphomeworth.cfm?siteType=aws&cid=617461
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Houston Home?"
-    CTA_text2: "Search the entire MLS for your Houston home."
-    CTA_link_text2: "Search the MLS"
+    CTA_title2: "¿Buscando una casa en Houston?"
+    CTA_text2: "Busca en toda la MLS tu hogar en Houston."
+    CTA_link_text2: "Buscar en la MLS"
     CTA_url2: http://search.har.com/idx/?siteType=aws&cid=617461
 
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
-    CTA_title3: "Meet With Us"
-    CTA_text3: "Schedule a time for us to sit down face to face."
-    CTA_link_text3: "See Calendar"
-    CTA_url3: /calendar/
+    CTA_title3: "Reunirse con nosotros"
+    CTA_text3: "Programe un tiempo para que nos sentemos cara a cara."
+    CTA_link_text3: "Ver calendario"
+    CTA_url3: /calendario/
 
 lender:
   show_section: false
