@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Join Us for a Dinner With the Dumpling Dudez
-date: 2019-11-11 16:53:38
+date: 2019-11-11 16:53:00
 tags:
   - Bienes raíces
 excerpt: >-
@@ -12,8 +12,8 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/hqdefault.jpg
 youtube_code: rCIRqLYgjgw
 ---
 
