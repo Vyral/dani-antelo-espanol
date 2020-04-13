@@ -66,11 +66,6 @@ third_sidebar_CTA:
     CTA_text3:
     CTA_link_text3:
     CTA_url3:
-  - CTA_image_path3:
-    CTA_title3:
-    CTA_text3:
-    CTA_link_text3:
-    CTA_url3:
 lender:
   show_section: false
   header_text: Preferred Lender
