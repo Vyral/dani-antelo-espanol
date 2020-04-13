@@ -61,11 +61,16 @@ second_sidebar_CTA:
     CTA_link_text2: Buscar en la MLS
     CTA_url2: 'http://search.har.com/idx/?siteType=aws&cid=617461'
 third_sidebar_CTA:
-  - CTA_image_path3: /img/cta-images/003.jpg
-    CTA_title3: Reunirse con nosotros
-    CTA_text3: Programe un tiempo para que nos sentemos cara a cara.
-    CTA_link_text3: Ver calendario
-    CTA_url3: /calendario/
+  - CTA_image_path3:
+    CTA_title3:
+    CTA_text3:
+    CTA_link_text3:
+    CTA_url3:
+  - CTA_image_path3:
+    CTA_title3:
+    CTA_text3:
+    CTA_link_text3:
+    CTA_url3:
 lender:
   show_section: false
   header_text: Preferred Lender
