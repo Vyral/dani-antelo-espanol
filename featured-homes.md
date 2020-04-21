@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Casas destacadas
 permalink: /casas-destacadas/
 ---

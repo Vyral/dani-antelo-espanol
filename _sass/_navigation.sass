@@ -2,12 +2,12 @@
 	border-bottom: 2px solid $theme
 	border-radius: 0
 	min-height: 52px
-	background: #ffffff
+	background: $brand
 	width: 100%
 	overflow: visible
 
 .navbar-andross .navbar-brand
-	color: $brand
+	color: $theme
 	padding-top: 20px
 	padding-bottom: 33px
 	font-size: 20px
@@ -20,7 +20,7 @@
 
 .navbar-left>li>a
 	background: transparent
-	color: black
+	color: $theme
 	// padding: 1.3rem 2rem
 	text-transform: capitalize
 	font-size: 17px
@@ -29,7 +29,7 @@
 	// @include transition(0.3s)
 	&:hover
 		background: #eeeeee
-		color: $brand-dark
+		color: $brand
 		// border-top: 3px solid $brand
 		// @include transform(scale(1.05))
 		// @include transform(translateY(-0.2rem))
@@ -42,32 +42,17 @@
 		text-decoration: none
 		color: $brand
 
-.cta
-	background: transparent
-	color: $button-text
-	// padding: 1.3rem 2rem
-	text-transform: capitalize
-	font-size: 17px
-	font-weight: 300
-	&:hover
-		background: #eeeeee
-		color: $brand-dark
-	&:active
-		text-decoration: none
-		color: $brand
-	&:focus
-		text-decoration: none
-		color: $brand
-
 // Dropdown Button
 .dropbtn
-	color: black
-	background-color: #ffffff
+	color: $theme
+	background-color: $brand
 	font-weight: 300
 	font-size: 17px
 	border: none
 	text-transform: capitalize
 	margin-bottom: 0
+	&:active
+		color: $brand
 
 
 // The container <div> - needed to position the dropdown content
@@ -103,7 +88,7 @@
 	border: 0px solid $brand
 
 .fa-bars
-	color: $brand
+	color: $theme
 
 .navbar-toggle
 	// margin-top: 20px
@@ -115,6 +100,28 @@
 	padding-right: 15px
 	padding-left: 15px
 	// height: 52px
+
+.navbar-left
+	margin-top: 2.2rem
+
+.navbar-right
+	margin-top: 2.2rem
+
+.nav-logo
+	float: left !important
+	max-width: 170px
+	margin: 5px
+	padding: 10px
+
+@media (max-width: 760px)
+	.nav-logo
+		display: none
+	.hero-img
+		height: 300px
+
+	.nav-logo-small
+		max-width: 125px
+		margin-top: -20px
 
 
 @media(max-width: 347px)

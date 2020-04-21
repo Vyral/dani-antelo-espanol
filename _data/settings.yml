@@ -17,7 +17,7 @@ custom_links:
   - title: Casas destacadas
     url: /casas-destacadas/
   - title: 'Cómo comprar una casa en Houston, TX'
-    url: 'https://www.amazon.com/dp/1792789300'
+    url: '/book'
   - title: Desarrollo de casas adosadas
     url: /desarrollo-de-casas-adosadas/
 client:
@@ -60,12 +60,7 @@ second_sidebar_CTA:
     CTA_text2: Busca en toda la MLS tu hogar en Houston.
     CTA_link_text2: Buscar en la MLS
     CTA_url2: 'http://search.har.com/idx/?siteType=aws&cid=617461'
-third_sidebar_CTA:
-  - CTA_image_path3:
-    CTA_title3:
-    CTA_text3:
-    CTA_link_text3:
-    CTA_url3:
+
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -113,14 +108,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 30
   hero_text: Houston Broker Team
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999999'
+  brand_color: '#000000'
+  theme_color: '#ffd102'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -135,7 +130,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: 'rgba(0, 0, 0, 0)'
-  button_text_color: '#123456'
+  button_text_color: '#ffd102'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'

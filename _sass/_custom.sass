@@ -3,20 +3,25 @@
 // 	max-width: 40rem
 
 .footer
-	color: #fff
+	color: $theme
 	.attribution
 		svg
 			fill: #fff
 	.socials
 		svg
-			fill: #fff
+			fill: $theme
+			&:hover
+				fill: $theme
 	a
-		color: #fff
+		color: $theme
 
 .newsletter
 	background: darken($theme, 3%)
 
-
+.container-fluid
+	padding-left: 0
+	padding-right: 0
+	margin-top: -2px
 
 
 #side-logo
@@ -32,3 +37,14 @@
 .testimonial-author
 	color: #b40101
 	margin-top: -20px
+
+.book
+	max-width: 250px
+	padding: 20px
+	float: left
+
+.women-photos
+	border: 2px solid black
+	max-width: 45%
+	display: inline-block
+	margin: 10px auto

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Gemas de Houston
 permalink: /gemas-de-houston/
 ---
